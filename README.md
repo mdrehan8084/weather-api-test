@@ -29,6 +29,6 @@ npm start
 
 ## 👤 Developer
 
-**Manoj Kumar (Md Rehan)**
+**Md Rehan**
 - GitHub: [Md Rehan](https://github.com/mdrehan8084)
-- LinkedIn: [Manoj Kumar](https://www.linkedin.com/in/mdrehan-565331415/)
+- LinkedIn: [Md Rehan](https://www.linkedin.com/in/mdrehan-565331415/)
