@@ -29,6 +29,6 @@ npm start
 
 ## 👤 Developer
 
-**Manoj Kumar (M.Rajpoot)**
-- GitHub: [@manojcodings](https://github.com/manojcodings)
-- LinkedIn: [Manoj Kumar](https://www.linkedin.com/in/manoj-kumar-684b133a6/)
+**Manoj Kumar (Md Rehan)**
+- GitHub: [Md Rehan](https://github.com/mdrehan8084)
+- LinkedIn: [Manoj Kumar](https://www.linkedin.com/in/mdrehan-565331415/)
